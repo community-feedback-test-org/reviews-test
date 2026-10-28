@@ -11,4 +11,4 @@ Isolated test repository for Community Feedback owner verification.
 This separate card displays simulated feedback and does not affect the real rating.
 
 <!-- test-only-preview -->
-![Test-only feedback preview](https://github-community-feedback.onrender.com/test-card.svg?repo=community-feedback-test-org%2Freviews-test&v=1)
+![Test-only feedback preview](https://github-community-feedback.onrender.com/test-card.svg?repo=community-feedback-test-org%2Freviews-test&v=2)
